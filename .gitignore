@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*
+!.env.example
+data/
+*.sqlite*
+published/*
+!published/.gitkeep
+hosting/
+.openai/
+.agents/
+.codex/
+.DS_Store
+*.tsbuildinfo
+playwright-report/
+test-results/
